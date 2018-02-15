@@ -1,0 +1,5 @@
+Zero/one-error on test set: 58.33% (65 correct, 91 incorrect, 156 total)
+Zero/one-error on test set: 56.05% (69 correct, 88 incorrect, 157 total)
+Zero/one-error on test set: 62.42% (59 correct, 98 incorrect, 157 total)
+Zero/one-error on test set: 70.06% (47 correct, 110 incorrect, 157 total)
+Zero/one-error on test set: 64.33% (56 correct, 101 incorrect, 157 total)
